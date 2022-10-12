@@ -1,0 +1,16 @@
+{
+    "name": "wild/app",
+    "description": "new wild project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergtwo",
+            "email": "sergerama@gmail.com"
+        }
+    ],
+    "require": {}
+}
